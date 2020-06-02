@@ -11,8 +11,6 @@ This hands-on workshop focuses on
 * Multitenant Tenant Isolation : This is a 2 hour workshop. It helps DBAs mange resource allocation, isolation of pluggable database.
     * Isolation features like Database Firewall and LOCKDOWN.
     * Memory, CPU and IO isolation.
-* Multitenant Application Containers : This is a 3 hour workshop. Once the Basic is mastered, DBAs can architect the application to take advantage of Multitenant specific features.
-        * Application Architecture, Upgrde, Porxy PDBs , Syncronizing Application and Version control.
 
 ## Workshop Requirements
 
